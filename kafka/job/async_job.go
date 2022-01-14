@@ -2,8 +2,8 @@ package job
 
 import (
 	"context"
-	"fraazo-utility/fraazoError"
 	"time"
+	"utility/fraazoError"
 )
 
 type asyncJob struct {

@@ -1,7 +1,7 @@
 package job
 
 import (
-	"fraazo-utility/fraazoError"
+	"utility/fraazoError"
 )
 
 const JobInvalidInputError = "JOB_ERR_INVALID_INPUT"
