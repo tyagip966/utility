@@ -2,8 +2,8 @@ package job
 
 import (
 	"context"
+	"github.com/tyagip966/utility/fraazoError"
 	"time"
-	"utility/fraazoError"
 )
 
 type Job interface {

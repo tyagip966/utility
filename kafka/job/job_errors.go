@@ -1,7 +1,7 @@
 package job
 
 import (
-	"utility/fraazoError"
+	"github.com/tyagip966/utility/fraazoError"
 )
 
 const JobInvalidInputError = "JOB_ERR_INVALID_INPUT"
